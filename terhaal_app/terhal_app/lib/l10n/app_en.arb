@@ -1,0 +1,84 @@
+{
+  "language": "English",
+  "helloTxt": "Hello",
+  "home": "Home",
+  "email": "Email",
+  "username": "Username",
+  "password": "Password",
+  "newPassword": "New Password",
+  "forgotPassword": "Forgot Your Password?",
+  "forgetPasswordTitle": "Forget Password",
+  "forgetPasswordTxt": "Enter your email we will send the verification code to reset your password",
+  "resetPassword": "Reset Password",
+  "login": "Login",
+  "signin": "Sign In",
+  "signup": "Sign Up",
+  "logout": "Logout",
+  "yes": "Yes",
+  "no": "No",
+  "cancel": "Cancel",
+  "next": "Next",
+  "back": "Back",
+  "step": "Step {step}",
+  "@step": {
+    "placeholders": {
+      "step": {
+        "content": "{step}",
+        "example": "1"
+      }
+    }
+  },
+  "dontHaveAnAccount": "Don’t have an account?",
+  "createAccount": "Create Account",
+  "createNewAccount": "Create a New Account",
+  "confirmPassword": "Confirm Password",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "age": "Age",
+  "dateOfBirth": "Date of Birth",
+  "gender": "Gender",
+  "male": "Male",
+  "female": "Female",
+  "travelCompanion": "Travel Companion",
+  "physicalFitness": "Physical Fitness",
+  "alreadyHaveAccount": "Already have an account?",
+  "logoutConfirmation": "Are you sure you want to logout?",
+  "hello": "Hello {userName}",
+  "@hello": {
+    "placeholders": {
+      "userName": {
+        "content": "{userName}",
+        "example": "Ahmed"
+      }
+    }
+  },
+  "strongPasswordValidator": "Password must be strong (include at least one uppercase letter, one lowercase letter, and one digit)",
+  "signinToYourAccount": "Sign in to your account",
+  "continueWithGoogle": "Continue with Google",
+  "exploreTheUnknown": "Explore The Unknown",
+  "findsThingsToDo": "Find things to do",
+  "explore": "Explore",
+  "favorites": "Favorites",
+  "profile": "Profile",
+  "findNearYou": "Find Near You",
+  "recommendedForYou": "Recommended For You",
+  "seeAll": "See All",
+  "trending": "Trending",
+  "emptyData": "No Data Found for {type}",
+  "@emptyData": {
+    "placeholders": {
+      "type": {
+        "content": "{type}",
+        "example": "Activities"
+      }
+    }
+  },
+  "family": "Family",
+  "solo": "Solo",
+  "healthCondition": "Health Condition",
+  "heart": "Heart",
+  "asthma": "Asthma",
+  "noCondition": "No Condition",
+  "needStroller": "Do you need a stroller or a stroller for people with special needs?",
+  "passwordsDoNotMatch": "Passwords do not match"
+}

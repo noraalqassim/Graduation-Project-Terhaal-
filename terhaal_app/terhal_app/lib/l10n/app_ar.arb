@@ -1,0 +1,85 @@
+{
+  "language": "الغة",
+  "helloTxt": "مرحبا",
+  "home": "الرئيسية",
+  "email": "البريد الالكتروني",
+  "username": "اسم المستخدم",
+  "password": "كلمة المرور",
+  "newPassword": "كلمة المرور الجديدة",
+  "forgotPassword": "؟نسيت كلمة المرور",
+  "forgetPasswordTitle": "نسيت كلمة المرور",
+  "forgetPasswordTxt": "أدخل بريدك الإلكتروني وسنرسل لك رمز التحقق لإعادة تعيين كلمة المرور الخاصة بك",
+  "resetPassword": "اعادة تعيين كلمة المرور",
+  "login": "تسجيل الدخول",
+  "signin": "تسجيل الدخول",
+  "signup": "انشاء حساب",
+  "logout": "تسجيل الخروج",
+  "yes": "نعم",
+  "no": "لا",
+  "cancel": "الغاء",
+  "next": "التالي",
+  "back": "السابق",
+  "step": "الخطوة {step}",
+  "@step": {
+    "placeholders": {
+      "step": {
+        "content": "{step}",
+        "example": "1"
+      }
+    }
+  },
+  "signinTitle": "تسجيل الدخول",
+  "dontHaveAnAccount": "ليس لديك حساب؟",
+  "createAccount": "انشاء حساب",
+  "createNewAccount": "انشاء حساب جديد",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "firstName": "الاسم الاول",
+  "lastName": "الاسم الاخير",
+  "age": "العمر",
+  "dateOfBirth": "تاريخ الميلاد",
+  "gender": "الجنس",
+  "male": "ذكر",
+  "female": "انثى",
+  "travelCompanion": "مرافق السفر",
+  "physicalFitness": "اللياقة البدنية",
+  "alreadyHaveAccount": "هل لديك حساب؟",
+  "logoutConfirmation": "هل تريد تسجيل الخروج؟",
+  "hello": "مرحبا {userName}",
+  "@hello": {
+    "placeholders": {
+      "userName": {
+        "content": "{userName}",
+        "example": "احمد"
+      }
+    }
+  },
+  "strongPasswordValidator": "يجب أن تكون كلمة المرور قوية (تتضمن على الأقل حرفًا كبيرًا وحرفًا صغيرًا ورقمًا واحدًا)",
+  "signinToYourAccount": "تسجيل الدخول إلى حسابك",
+  "continueWithGoogle": "المتابعة مع جوجل",
+  "exploreTheUnknown": "استكشف المجهول",
+  "findsThingsToDo": "ايجاد الاماكن المناسبة لك",
+  "explore": "استكشف",
+  "favorites": "المفضلة",
+  "profile": "الملف الشخصي",
+  "findNearYou": "ايجاد القريبة منك",
+  "recommendedForYou": "موصى به لك",
+  "seeAll": "عرض الكل",
+  "trending": "الاكثر شعبية",
+  "emptyData": "لا يوجد بيانات ل {type}",
+  "@emptyData": {
+    "placeholders": {
+      "type": {
+        "content": "{type}",
+        "example": "المفضلة"
+      }
+    }
+  },
+  "family": "عائلة",
+  "solo": "منفرد",
+  "healthCondition": "الحالات الصحية",
+  "heart": "القلب",
+  "asthma": "الربو",
+  "noConditions": "لا يوجد",
+  "needStroller":"هل تحتاج إلى عربة أطفال أو عربة أطفال لذوي الاحتياجات الخاصة؟",
+  "passwordsDoNotMatch": "كلمات المرور غير متطابقة"
+}

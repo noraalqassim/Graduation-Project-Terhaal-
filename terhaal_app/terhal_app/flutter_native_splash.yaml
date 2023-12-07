@@ -1,0 +1,12 @@
+flutter_native_splash:
+  color: "#00736D"
+  image: "assets/images/terhal.png"
+
+  fullscreen: true
+  web: false
+
+  android_12:
+    color: "#00736D"
+    layout: "center"
+    image: "assets/images/terhal.png"
+    icon_background_color: "#00736D"

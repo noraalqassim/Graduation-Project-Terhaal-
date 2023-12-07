@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422643052546",
+    "project_id": "sa-terhal-application",
+    "storage_bucket": "sa-terhal-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422643052546:android:37caaff731e4f190e0b71b",
+        "android_client_info": {
+          "package_name": "com.example.terhal_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAewxW3u105698lS3QjjJMPVtyfpgb-TeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

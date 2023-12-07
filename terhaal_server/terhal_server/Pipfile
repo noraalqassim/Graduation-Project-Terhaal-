@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+djangorestframework = "*"
+django-filter = "*"
+pylint-django = "*"
+django-json-widget = "*"
+pillow = "*"
+drf-spectacular = "*"
+pandas = "*"
+numpy = "*"
+djangorestframework-csv = "*"
+firebase-admin = "*"
+django-solo = "*"
+django-cleanup = "*"
+scikit-learn = "*"
+psycopg2 = {version = "*", sys_platform = "== 'win32'"}
+psycopg2-binary = {version = "*", sys_platform = "== 'linux'"}
+gunicorn = {version = "*", sys_platform = "== 'linux'"}
+nltk = "*"
+
+[dev-packages]
+pre-commit = "*"
+djlint = "*"
