@@ -1,4 +1,4 @@
-# Group 2 Graduation Project
+# Group 2 Graduation Project | Mobile Application for Smart Travel Guide "Terhal"
 
 This ReadMe file provides an explanation of the Group 2 Graduation Project and instructions on how to set it up.
 
